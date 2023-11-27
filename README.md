@@ -12,3 +12,6 @@ Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/29
 ##
 Presentation by Astrid Bailey and Katrina James
 - [https://github.com/AstridSheila/todo](https://github.com/AstridSheila/todo)
+
+##
+- [PHPStan static analysis in PHP - YouTube video, Nov 27/'23](https://www.youtube.com/watch?v=l6HkAYFBTJM)

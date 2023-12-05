@@ -15,4 +15,5 @@ Presentation by Astrid Bailey and Katrina James
 - [https://github.com/AstridSheila/todo](https://github.com/AstridSheila/todo)
 
 ##
+- [Mob Programming and the Power of Flow • Woody Zuill • GOTO 2019 (YouTube video)](https://www.youtube.com/watch?v=28S4CVkYhWA)
 - [PHPStan static analysis in PHP - YouTube video, Nov 27/'23](https://www.youtube.com/watch?v=l6HkAYFBTJM)

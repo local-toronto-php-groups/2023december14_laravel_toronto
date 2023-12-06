@@ -21,6 +21,17 @@ Ah.. here are the GPUG meetups:
 - [Laracon Special - Mob Programming with Vehikl](https://www.meetup.com/_gpug_/events/288382468/)
 - [Laracon Special - Mob Programming with Vehikl](https://www.meetup.com/_gpug_/events/283489764/)
 
+I thought that the way to go about doing this would be to, basically, plan the shit out of it. Divide the meet-up into 15 minute segments, assign roles, and dictate the basic app to be done. Except that this is pretty much contrary to the "soul" of Mob Programming.
+
+Instead, I think that this thing needs to have a "life of its own". We'll see what happens!
+
+I think that the one thing that makes this Mob Programming session different from what I've learned so far about it, is that we are doing it at our meet-up. The purpose, ultimately, is for people new to the Laravel Framework, to see how a Laravel Framework based web application is created and developed. The purpose, ultimately, is learning, not doing the app! A big attraction about trying out Mob Programming in our meet-up is that it is, by its very nature, highly interactive. 
+
+This is a rare opportunity to ask your questions!
+
+
+
+
 
 
 ##

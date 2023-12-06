@@ -17,6 +17,10 @@ Lukasz Zagroba emailed me with a great question, and a tremendous inspiration. T
 
 I know that the Guelph PHP User Group, run by Canada's only Laravel Partner, Vehikl, who helped get Laravel Toronto off the ground in the early days with SoapBox, uses Mob Programming, and does it from time to time at GPUG. I know this because Colin gave me a personal tour at Vehikl's offices in Waterloo and described what they did. 
 
+Ah.. here are the GPUG meetups:
+- [Laracon Special - Mob Programming with Vehikl](https://www.meetup.com/_gpug_/events/288382468/)
+- [Laracon Special - Mob Programming with Vehikl](https://www.meetup.com/_gpug_/events/283489764/)
+
 
 
 ##

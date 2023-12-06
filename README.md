@@ -29,6 +29,12 @@ I think that the one thing that makes this Mob Programming session different fro
 
 This is a rare opportunity to ask your questions!
 
+We need one computer for development. Is there someone who is ok for providing this computer? And to correspond through email with me about the set-up?
+
+At the meet-up, better that I monitor the time segments, greet late-comers, be available for side-questions, and gently guide the overall process. Nuno did provide popcorn at YTZ International's first meet-up, so if there is popcorn on the 14th I will be enjoying it, watching this process play out. 
+
+We need someone to "drive" the computer, and someone to "navigate" the driver. Meaning, the "driver" types, but is not supposed to take part in what they are typing. When the "driver" has an issue, they need to raise it. The "navigator" is quite a role. There is supposed to be, or can be, a third hard role, of someone representing the user side of the app being developed. However, I think the "navigator" should lead the discussion, perhaps in a chaotic kind of way. For once, at a meet-up, everyone talking at once might be acceptable! Again, Nuno, will there be popcorn?
+
 
 
 

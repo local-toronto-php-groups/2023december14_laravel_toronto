@@ -35,6 +35,8 @@ At the meet-up, better that I monitor the time segments, greet late-comers, be a
 
 We need someone to "drive" the computer, and someone to "navigate" the driver. Meaning, the "driver" types, but is not supposed to take part in what they are typing. When the "driver" has an issue, they need to raise it. The "navigator" is quite a role. There is supposed to be, or can be, a third hard role, of someone representing the user side of the app being developed. However, I think the "navigator" should lead the discussion, perhaps in a chaotic kind of way. For once, at a meet-up, everyone talking at once might be acceptable! Again, Nuno, will there be popcorn?
 
+I feel strongly that we have one "navigator". The role, for the purposes of our meet-up, is more a leader of the discussion. Who guides the discussions into decisions. Easier said than done, eh!
+
 There are many ways to go about bootstrapping a Laravel Framework based app. You can create a project from the [https://github.com/laravel/laravel](https://github.com/laravel/laravel) repo. You can [https://github.com/laravel/breeze](https://github.com/laravel/breeze). I think the group should decide.
 
 My one caveat is to be reasonable about introducing complexity. The main thing is for devs that are new to the Laravel Framework get a sense of how to do a Laravel based web app from scratch. For example, the goal is not to demonstrate Livewire, so if using Livewire is complex, then let's not use it. I really do not know where the demarcation line is, but keep it in mind, and be open to the vocalizations about where the boundaries might be. 

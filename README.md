@@ -11,6 +11,10 @@
 Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/296531813/](https://www.meetup.com/gta-php-user-group-toronto/events/296531813/)
 
 ##
+New from Laravel:
+- [https://laravel-news.com/announcing-laravel-pulse](https://laravel-news.com/announcing-laravel-pulse)
+
+##
 Unfortunately, due to time pressures, Astrid Bailey and Katrina James are unable to do the preparation for their "Laravel Application From Scratch" presentation.
 
 Lukasz Zagroba emailed me with a great question, and a tremendous inspiration. THANK YOU! Why not try out "Mob Programming"? Even though I have never tried it, nor Lukasz, and none of our Groups have tried it, why not go for it anyways? 

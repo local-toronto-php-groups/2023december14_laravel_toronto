@@ -59,3 +59,8 @@ I think the initial segment or two, we should plan who is doing the "driver" and
 - [Mob Programming Surprised Me (YouTube video)](https://www.youtube.com/watch?v=ikilHGYk5Fs)
 - [A day of Mob Programming 2016 (YouTube video](https://www.youtube.com/watch?v=dVqUcNKVbYg)
 - [A day of Mob Programming (YouTube video)](https://www.youtube.com/watch?v=p_pvslS4gEI)
+
+##
+![YTZ International's entrance @ Graffiti Alley](/2012dec14_laravel_toronto_ytz_intl_entrance_graffiti_alley.png)
+![Bob introducing the meet-up](/2023dec14_laravel_toronto_bob_introduction.png)
+![Mob Programming with local Artisans](2023dec14_laravel_toronto_artisans1.png)

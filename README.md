@@ -49,17 +49,13 @@ I do not know what app to build. I think a "To Do" app is perhaps too simple. It
 
 I think the initial segment or two, we should plan who is doing the "driver" and "navigator". Then, let the group decide on who does these roles. 
 
-
-
-
-
-
 ##
 - [Mob Programming and the Power of Flow • Woody Zuill • GOTO 2019 (YouTube video)](https://www.youtube.com/watch?v=28S4CVkYhWA)
 - [Mob Programming Surprised Me (YouTube video)](https://www.youtube.com/watch?v=ikilHGYk5Fs)
 - [A day of Mob Programming 2016 (YouTube video](https://www.youtube.com/watch?v=dVqUcNKVbYg)
 - [A day of Mob Programming (YouTube video)](https://www.youtube.com/watch?v=p_pvslS4gEI)
 
+##
 ## Post Meet-up Comments
 Thank you to Nuno Souto and to YTZ International for hosting our meet-up. We had a dozen Artisans attend. This time of year, it is very hard to guage attendence. The weather held up, and we did well.
 

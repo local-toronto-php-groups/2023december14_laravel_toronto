@@ -60,6 +60,37 @@ I think the initial segment or two, we should plan who is doing the "driver" and
 - [A day of Mob Programming 2016 (YouTube video](https://www.youtube.com/watch?v=dVqUcNKVbYg)
 - [A day of Mob Programming (YouTube video)](https://www.youtube.com/watch?v=p_pvslS4gEI)
 
+## Post Meet-up Comments
+Thank you to Nuno Souto and to YTZ International for hosting our meet-up. We had a dozen Artisans attend. This time of year, it is very hard to guage attendence. The weather held up, and we did well.
+
+Our first try with Mob Programming went well, mostly. The active participation, and willingness to give it a try, is what really made it successful. 
+
+The ultimate purpose of the exercise was to give developers who are new to the Laravel Framework a chance to see an app built from the ground up. Along with the opportunity to ask questions each step of the way. The more seasoned artisans got a lot out of it, if not more, as it was a refresher of doing an app from scratch. 
+
+One seasoned Artisan said that back-in-the-day it was much simpler bootstrapping a Laravel app. Now, there are more decisions that you have to make up-front, before doing a ```composer update```.
+
+One lesson that was re-learned is that you absolutely need to set up your local development first. Nuno gave us a wonderful real-time demonstration of [Laravel Valet](https://laravel.com/docs/10.x/valet). Personally, I decided to finally try Docker for local development, and am glad that I did. Which is to say that there are various ways to go about local development. 
+
+The Laravel Project offers many starter packages. Deciding which to use requires understanding your use case. And, deciding on what front-end framework you want to use. And, being familiar with the starter packages that the Laravel Project offers. 
+
+It was decided that doing a "to do" app was just too pedestrian an app to do. Instead, we should do something more exciting. The assumption was that we would race through doing a basic CRUD app using the classic "MVC" structure, and so would need something more intensive to keep the Mob Programming exercise going. 
+
+Oh... how wrong we were! First of all, no one person was familiar with all the various Laravel Starter Packages. So we had to look those up in real-time. Mainly between Jetstream and Breeze. Then, there was a brief, but intense, back-and-forth about which front-end framework to use. Naturally, I eschewed them all, wanting to stick with basic Blade. Consensus went with Livewire, so Livewire it was. And, it turns out, no one quite knew Livewire enough to do real-time live coding. Or, maybe more accurately, we are used to our toys, and without those installed, we ground to a big ol' halt! Ah.... getting back to "First Principles" is not so easy!
+
+This was an issue with coding routes, controllers, models, and views from scratch. Someone new to the Laravel Framework is not going to know how. But... we found out that some of using Laravel might not remember either. There is more looking-things-up than we thought. Hand crafting a database migration file took some effort, especially the foreign key ID field. 
+
+There is an Artisan command to create CRUD files at the same time. There is a route method that short-cuts having to list all the controller "action" methods individually. All these conveniences may contribute, I think, possibly, to not quite understanding the nauances of some things. 
+
+We ran out of time before we knew it. Getting bogged down in shockingly basic stuff.
+
+Lukasz is spot-on, saying that for the next time, we need to arrange Artisans of varied skills to attend -- and then participate. Yes!
+
+I do want to give "Mob Programming" another try, now that we have our first one under our belt. To organize it, maybe I should be like a General Contractor. Have an architect design the overall thing. Then, bring in sub-contractor trades to do the work. The cememt company to do the concrete forms and pour the concrete. The carpenters to frame it. The plumbers, dry-wallers, electricians, etc. 
+
+What I really enjoyed about this meet-up was how participatory it was. A nice break from presentations!
+
+
+
 ##
 ![YTZ International's entrance @ Graffiti Alley](/2012dec14_laravel_toronto_ytz_intl_entrance_graffiti_alley.png)
 ![Bob introducing the meet-up](/2023dec14_laravel_toronto_bob_introduction.png)
